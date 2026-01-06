@@ -1,3 +1,8 @@
-Gpedit > computer configuration > administrative templates > windows components > bitlocker drive encryption > operating system drives: require additional authentication at startup & allow enhanced pin
+Gpedit > 
+	computer configuration > 
+	administrative templates > 
+	windows components > 
+	bitlocker drive encryption > 
+		operating system drives: require additional authentication at startup & allow enhanced pin
 
 
